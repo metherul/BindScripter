@@ -1,0 +1,36 @@
+C:\C# Projects\Bind Scripter\Bind Scripter\bin\Debug\Bind Scripter.exe.config
+C:\C# Projects\Bind Scripter\Bind Scripter\bin\Debug\Bind Scripter.exe
+C:\C# Projects\Bind Scripter\Bind Scripter\bin\Debug\Bind Scripter.pdb
+C:\C# Projects\Bind Scripter\Bind Scripter\bin\Debug\MetroFramework.Design.dll
+C:\C# Projects\Bind Scripter\Bind Scripter\bin\Debug\MetroFramework.dll
+C:\C# Projects\Bind Scripter\Bind Scripter\bin\Debug\MetroFramework.Fonts.dll
+C:\C# Projects\Bind Scripter\Bind Scripter\obj\Debug\Bind Scripter.csprojResolveAssemblyReference.cache
+C:\C# Projects\Bind Scripter\Bind Scripter\obj\Debug\Bind_Scripter.Main.resources
+C:\C# Projects\Bind Scripter\Bind Scripter\obj\Debug\Bind_Scripter.Properties.Resources.resources
+C:\C# Projects\Bind Scripter\Bind Scripter\obj\Debug\Bind Scripter.csproj.GenerateResource.Cache
+C:\C# Projects\Bind Scripter\Bind Scripter\obj\Debug\Bind Scripter.exe
+C:\C# Projects\Bind Scripter\Bind Scripter\obj\Debug\Bind Scripter.pdb
+C:\Github\Bind Scripter\Bind Scripter\bin\Debug\Bind Scripter.exe.config
+C:\Github\Bind Scripter\Bind Scripter\obj\Debug\Bind Scripter.exe
+C:\Github\Bind Scripter\Bind Scripter\obj\Debug\Bind Scripter.pdb
+C:\Github\Bind Scripter\Bind Scripter\bin\Debug\Bind Scripter.exe
+C:\Github\Bind Scripter\Bind Scripter\bin\Debug\Bind Scripter.pdb
+C:\Github\Bind Scripter\Bind Scripter\bin\Debug\MetroFramework.Design.dll
+C:\Github\Bind Scripter\Bind Scripter\bin\Debug\MetroFramework.dll
+C:\Github\Bind Scripter\Bind Scripter\bin\Debug\MetroFramework.Fonts.dll
+C:\Github\Bind Scripter\Bind Scripter\obj\Debug\Bind Scripter.csprojResolveAssemblyReference.cache
+C:\Github\Bind Scripter\Bind Scripter\obj\Debug\Bind_Scripter.Main.resources
+C:\Github\Bind Scripter\Bind Scripter\obj\Debug\Bind_Scripter.Properties.Resources.resources
+C:\Github\Bind Scripter\Bind Scripter\obj\Debug\Bind Scripter.csproj.GenerateResource.Cache
+C:\Github\BindScripter\Bind Scripter\bin\Debug\Bind Scripter.exe.config
+C:\Github\BindScripter\Bind Scripter\obj\Debug\Bind Scripter.exe
+C:\Github\BindScripter\Bind Scripter\obj\Debug\Bind Scripter.pdb
+C:\Github\BindScripter\Bind Scripter\bin\Debug\Bind Scripter.exe
+C:\Github\BindScripter\Bind Scripter\bin\Debug\Bind Scripter.pdb
+C:\Github\BindScripter\Bind Scripter\bin\Debug\MetroFramework.Design.dll
+C:\Github\BindScripter\Bind Scripter\bin\Debug\MetroFramework.dll
+C:\Github\BindScripter\Bind Scripter\bin\Debug\MetroFramework.Fonts.dll
+C:\Github\BindScripter\Bind Scripter\obj\Debug\Bind Scripter.csprojResolveAssemblyReference.cache
+C:\Github\BindScripter\Bind Scripter\obj\Debug\Bind_Scripter.Main.resources
+C:\Github\BindScripter\Bind Scripter\obj\Debug\Bind_Scripter.Properties.Resources.resources
+C:\Github\BindScripter\Bind Scripter\obj\Debug\Bind Scripter.csproj.GenerateResource.Cache
