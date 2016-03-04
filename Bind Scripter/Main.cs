@@ -45,6 +45,9 @@ namespace Bind_Scripter
             
             delay = Convert.ToInt32(delay_textBox.Text);
 
+            if (delay < 200)
+                delay = 500;
+
             CreateFile();
         }
 
